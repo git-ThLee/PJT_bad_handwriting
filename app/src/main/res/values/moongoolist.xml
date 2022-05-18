@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "moongoolist">
+        <item>가나다라마바사</item>
+        <item>아자차카타파하</item>
+        <item>바른손글씨</item>
+        <item>악필교정</item>
+        <item>교정기억법</item>
+    </string-array>
+</resources>
